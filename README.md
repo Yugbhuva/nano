@@ -1,8 +1,3 @@
----
-
-## 📄 Final `README.md` for `nanourls`
-
-````markdown
 # nanourls
 
 **nanourls** is a minimal, fast, and dependency-free Python URL shortener package with support for a custom domain — by default, it uses `https://nano.ly/` as your branded short link prefix.
